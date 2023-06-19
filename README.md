@@ -12,12 +12,20 @@ STATUS: Under Development
 -------------------------------------------
 ## Installation Process
 
+To install the `GradeMaster` program, follow these steps:
+
+1. Clone the repository to your local machine:
+```
 git clone https://github.com/ShadowR3aper/GradeMaster.git
-
+```
+2. Navigate to the project directory:
+```
 cd GradeMaster
-
+```
+3. Run the program by running the following command:
+```
 GradeMaster
-
+```
 -------------------------------------------
 ## System Preview
 
