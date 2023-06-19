@@ -31,4 +31,5 @@ GradeMaster
 
 Main Page
 
-![Screenshot (1065)](https://github.com/ShadowR3aper/GradeMaster/assets/123635909/feef4235-e0f1-438f-921b-7fb5f4402d11)
+![Screenshot (1066)](https://github.com/ShadowR3aper/GradeMaster/assets/123635909/5c1b673b-18a4-4931-a749-e723b4946e95)
+
