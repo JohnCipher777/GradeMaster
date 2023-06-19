@@ -2,6 +2,15 @@
 The CLI-Based School Grading System
 
 -------------------------------------------
+[INSTALLATION PROCESS]
+
+git clone https://github.com/ShadowR3aper/GradeMaster.git
+
+cd GradeMaster
+
+GradeMaster
+
+-------------------------------------------
 SYSTEM PREVIEW
 
 Main Page
