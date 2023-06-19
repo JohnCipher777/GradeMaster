@@ -2,7 +2,7 @@
 The CLI-Based School Grading System
 
 ------------------------------------------
-STATUS: Upcoming
+STATUS: Under Development
 
 -------------------------------------------
 [INSTALLATION PROCESS]
