@@ -1,11 +1,16 @@
-# GradeMaster
+# Project Title 
+
+GradeMaster
+
+## Description
+
 The CLI-Based School Grading System
 
 ------------------------------------------
 STATUS: Under Development
 
 -------------------------------------------
-[INSTALLATION PROCESS]
+## Installation Process
 
 git clone https://github.com/ShadowR3aper/GradeMaster.git
 
@@ -14,7 +19,7 @@ cd GradeMaster
 GradeMaster
 
 -------------------------------------------
-SYSTEM PREVIEW
+## System Preview
 
 Main Page
 
